@@ -1,8 +1,6 @@
-<p align="center">
-	<a href="http://milligram.github.io"><img width="100%" src="https://raw.githubusercontent.com/milligram/milligram.github.io/master/img/thumbnail.jpg" alt="Milligram - A minimalist CSS framework on Sass version"></a>
-</p>
+<a align="center" href="http://milligram.github.io"><img width="100%" src="https://milligram.github.io/images/thumbnail.jpg" alt="Milligram - A minimalist CSS framework on color themes"></a>
 
-> A minimalist CSS framework on Sass version.
+> A minimalist CSS framework on color themes.
 
 [![Build Status](https://travis-ci.org/milligram/milligram-themes.svg?branch=master)](https://travis-ci.org/milligram/milligram-themes)
 [![Dependencies Status](https://david-dm.org/milligram/milligram-themes.svg)](https://travis-ci.org/milligram/milligram-themes)
