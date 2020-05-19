@@ -1,54 +1,74 @@
 /* Include this stylesheet after Milligram or merge it with your main.css */
 
 a {
-    color: #FF851B;
+  color: #ff851b;
 }
 
-.button, button, input[type='button'], input[type='reset'], input[type='submit'] {
-    background-color: #FF851B;
-    border: .1rem solid #FF851B;
+.button,
+button,
+input[type='button'],
+input[type='reset'],
+input[type='submit'] {
+  background-color: #ff851b;
+  border: 0.1rem solid #ff851b;
 }
 
-.button.button-outline, button.button-outline, input[type='button'].button-outline, input[type='reset'].button-outline, input[type='submit'].button-outline {
-    color: #FF851B;
+.button.button-outline,
+button.button-outline,
+input[type='button'].button-outline,
+input[type='reset'].button-outline,
+input[type='submit'].button-outline {
+  color: #ff851b;
 }
 
-.button.button-clear, button.button-clear, input[type='button'].button-clear, input[type='reset'].button-clear, input[type='submit'].button-clear {
-    color: #FF851B;
+.button.button-clear,
+button.button-clear,
+input[type='button'].button-clear,
+input[type='reset'].button-clear,
+input[type='submit'].button-clear {
+  color: #ff851b;
 }
 
 pre.prettyprint .lit {
-    color: #FF851B;
+  color: #ff851b;
 }
 
 .share-icon {
-    background-color: #FF851B;
-    color: #ffffff;
+  background-color: #ff851b;
+  color: #ffffff;
 }
 
 pre {
-    background: #f4f5f6;
-    border-left: .3rem solid #FF851B;
+  background: #f4f5f6;
+  border-left: 0.3rem solid #ff851b;
 }
 
 pre.prettyprint {
-    border-left: .3rem solid #FF851B !important;
-    color: #655d5d;
+  border-left: 0.3rem solid #ff851b !important;
+  color: #655d5d;
 }
 
 pre.prettyprint .tag {
-    color: #FF851B;
+  color: #ff851b;
 }
 
 pre.prettyprint .atn {
-    color: #0065ce;
+  color: #0065ce;
 }
 
-input[type='email']:focus, input[type='number']:focus, input[type='password']:focus, input[type='search']:focus, input[type='tel']:focus, input[type='text']:focus, input[type='url']:focus, textarea:focus, select:focus {
-    border: .1rem solid #FF851B;
+input[type='email']:focus,
+input[type='number']:focus,
+input[type='password']:focus,
+input[type='search']:focus,
+input[type='tel']:focus,
+input[type='text']:focus,
+input[type='url']:focus,
+textarea:focus,
+select:focus {
+  border: 0.1rem solid #ff851b;
 }
 
 .github-corner {
-    color: #f4f5f6;
-    fill: #FF851B;
+  color: #f4f5f6;
+  fill: #ff851b;
 }
