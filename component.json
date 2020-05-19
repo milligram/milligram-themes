@@ -1,6 +1,6 @@
 {
   "name": "milligram-themes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A minimalist CSS framework for Themes.",
   "homepage": "https://milligram.io",
   "repository": "milligram/milligram-themes",
@@ -26,22 +26,6 @@
     "sass",
     "scss",
     "stylus"
-  ],
-  "ignore": [
-    ".editorconfig",
-    ".github",
-    ".gitignore",
-    ".npmignore",
-    ".sasslintrc",
-    ".travis.yml",
-    "bower.json",
-    "changelog.md",
-    "component.json",
-    "composer.json",
-    "package.js",
-    "package.json",
-    "src",
-    "test"
   ],
   "repo": "milligram/milligram-sass",
   "styles": ["examples", "dist/milligram.sass", "license", "readme.md"]

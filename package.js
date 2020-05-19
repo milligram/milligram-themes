@@ -1,6 +1,6 @@
 Package.describe({
   name: 'milligram:milligram-themes',
-  version: '0.0.1',
+  version: '0.0.2',
   summary: 'A minimalist CSS framework for Themes.',
   git: 'https://github.com/milligram/milligram-themes.git',
   documentation: 'readme.md',
